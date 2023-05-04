@@ -1,0 +1,14 @@
+com\chase\framework\Label.class
+com\chase\steps\FakeNewsSteps.class
+com\chase\framework\Helper.class
+com\chase\pageobjects\google\GoogleNewsSearch.class
+com\chase\framework\BrowserFactory.class
+com\chase\Runner.class
+com\chase\framework\Button.class
+com\chase\framework\Link.class
+com\chase\pageobjects\guardian\NewsMain.class
+com\chase\pageobjects\guardian\NewsDetail.class
+com\chase\pageobjects\bbc\BbcNewsSearch.class
+com\chase\framework\Textbox.class
+com\chase\framework\Browser.class
+com\chase\framework\Section.class

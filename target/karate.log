@@ -1,0 +1,7 @@
+20:34:21.585 [main]  INFO  com.intuit.karate - Karate version: 1.4.0-SNAPSHOT
+20:34:22.469 [main]  INFO  c.intuit.karate.core.FeatureRuntime - found scenario at line: 24
+20:34:25.057 [main]  ERROR com.intuit.karate - src/test/resources/features/FakeNews.feature:25
+Given the user navigated to "https://www.theguardian.com/tone/news" Guardian website
+no step-definition method match found for: the user navigated to "https://www.theguardian.com/tone/news" Guardian website
+src/test/resources/features/FakeNews.feature:25
+20:34:26.708 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/FakeNews.feature
